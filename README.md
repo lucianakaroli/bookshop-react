@@ -30,7 +30,7 @@ Antes de rodar o projeto, é necessário ter o **Node.js** e o **npm** instalado
 2. **Instale as dependências**:
    - Navegue até a pasta do projeto:
      ```bash
-     cd nome-do-projeto
+     cd bookshop-react
      ```
    - Instale as dependências do projeto:
      ```bash
