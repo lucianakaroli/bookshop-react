@@ -24,7 +24,7 @@ Antes de rodar o projeto, é necessário ter o **Node.js** e o **npm** instalado
 1. **Clone o repositório**:
    - Abra o terminal e clone o repositório:
      ```bash
-     git clone https://seu-repositorio.git
+     git clone https://github.com/lucianakaroli/bookshop-react
      ```
 
 2. **Instale as dependências**:
